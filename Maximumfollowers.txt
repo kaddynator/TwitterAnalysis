@@ -1,0 +1,22 @@
+The top 10 users who has the maximum followers: 
+
+1. Username: Windows -> Number of Followers: 6236263
+
+2. Username: Zappos -> Number of Followers: 2814470
+
+3. Username: MusicArtistspro -> Number of Followers: 317738
+
+4. Username: vincentdignan -> Number of Followers: 67265
+
+5. Username: SiddonsDan -> Number of Followers: 63911
+
+6. Username: AskLyft -> Number of Followers: 56743
+
+7. Username: Yatosaur -> Number of Followers: 45849
+
+8. Username: saravastiares -> Number of Followers: 36284
+
+9. Username: Kellye_Toon -> Number of Followers: 32002
+
+10. Username: Tia6sc -> Number of Followers: 30427
+
